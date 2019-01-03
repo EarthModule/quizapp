@@ -6,7 +6,7 @@
         <input class="form-control"
                type="text"
                id="name"
-               placeholder="Enter name"
+               placeholder="Enter your name"
                v-model="userName">
       </div>
 
